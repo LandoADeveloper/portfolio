@@ -9,6 +9,10 @@ header {
     justify-content: space-between;
     align-items: baseline;
 }
+
+html {
+    scroll-behavior: smooth;
+}
 header h1 {
     color: blueviolet;
 }
